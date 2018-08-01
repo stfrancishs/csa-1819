@@ -2,6 +2,6 @@ public class Coffee
 {
     public static void main(String args[])
     {
-        System.out.println("I love coffee too.");
+        System.out.println("I love coffee also.");
     }
 }
